@@ -1,5 +1,5 @@
 <p align=center>
- [![Discord Presence](https://lanyard.cnrad.dev/api/609310540686426141)](https://discord.com/users/609310540686426141)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/:609310540686426141)](https://discord.com/users/:609310540686426141)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
