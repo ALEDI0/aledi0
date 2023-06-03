@@ -4,7 +4,7 @@
 </p>
 
  ```python
-┌──(ALEDIO@root)-[~/]
+┌──(aledio@root)-[~/]
 └─$ cat ALEDIO.py
 
 class ALEDIO:
