@@ -1,7 +1,3 @@
-### Discord presence
-<p align=center>
-  <a href="https://discord.com/users/733713699239624864"><img src="https://lanyard-profile-readme.vercel.app/api/733713699239624864" width=45%></a>
-</p>
 
  ```python
 ┌──(ALEDIO@root)-[~/]
@@ -11,7 +7,7 @@ class ALEDIO:
 
 def  __social__(self):
  self.gtb = "https://github.com/ALEDI0"
- self.dsc = "ALEDIO#4677"
+ self.dsc = "00tt"
   
  ┌──(ALEDIO@root)-[~/]
  └─$
