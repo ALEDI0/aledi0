@@ -1,6 +1,6 @@
 ### Discord presence
 <p align=center>
-  <a href="https://discord.com/users/609310540686426141"><img src="https://lanyard-profile-readme.vercel.app/api/733713699239624864" width=45%></a>
+  <a href="https://discord.com/users/733713699239624864"><img src="https://lanyard-profile-readme.vercel.app/api/733713699239624864" width=45%></a>
 </p>
 
  ```python
