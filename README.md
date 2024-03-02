@@ -20,7 +20,7 @@ def  __social__(self):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,py,lua,js,dotnet,bash,nodejs,docker,git,mysql,linux,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cs,py,lua,rust,js,dotnet,bash,nodejs,docker,git,mysql,linux,vim,vscode" />
   </a>
 </p>
 
